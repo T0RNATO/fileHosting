@@ -23,9 +23,6 @@
   --message: none;
   /* set to '4px solid' to show */
   --embed-color: none;
-  /* set to 'Inter', sans-serif !important to use Inter font*/
-  --font-primary: "gg sans";
-  --font-display: "gg sans";
   --border-radius-1: 10px;
   --border-radius-2: 8px;
 }
