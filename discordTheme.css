@@ -141,3 +141,8 @@
   --button-destructive-hover: #ff929b;
   --button-destructive-active: #fa4a4a;
 }
+
+/* My stuff */
+.divider-2rZFJK.isUnread-3Lojb- {
+    border-top: 2px solid var(--divider-color);
+}
