@@ -146,3 +146,7 @@
 .divider-2rZFJK.isUnread-3Lojb- {
     border-top: 2px solid var(--divider-color);
 }
+
+#vc-membercount {
+    margin-bottom: 0 !important;
+}
