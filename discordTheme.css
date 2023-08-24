@@ -147,6 +147,19 @@
     border-top: 2px solid var(--divider-color);
 }
 
+.userProfileModalOuter-2wdWjU {
+	width: 100% !important;
+}
+
+.userProfileModalOuter-2wdWjU .avatar-3QF_VA {
+	top: -69px !important;
+	left: 10px !important;
+}
+
+.side-1lrxIh .themed-qqoYp3.selected-1sf9UK.item-2GWPIy, .topPill-2vcLsa .themed-qqoYp3.selected-1sf9UK.item-2GWPIy, .lookFilled-1H2Jvj.colorBrand-2M3O3N {
+	color: var(--background-tertiary) !important;
+}
+
 #vc-membercount {
     margin-bottom: 0 !important;
 }
